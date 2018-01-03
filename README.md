@@ -11,3 +11,4 @@ Finally this repository contain a Jupyter Notebook file (AcousticSceneClassifier
 
 ### Pre-trained models - Reproduce results
 To reproduce the results illustrated in the Article the two trained models are saved, and can be restored. The two saved models are respectively the 3 class problem and the 15 class problem.
+Only test classification accuracy for the 3 class problem is illustrated in the Jupyter Notebook. The test for the 15 class problem is preformed the same way, just tuned to 15 classes. The code can be found in the repository under "restoreTest15Classes.py".
