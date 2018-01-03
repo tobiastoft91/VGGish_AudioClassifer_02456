@@ -7,4 +7,7 @@ The project is related to the DTU course [*02456 Deep Learning*](http://kurser.d
 
 The project are written in Python programming language and some of the scripts is formatted into Jupyter Notebooks.
 This repository contains a folder "tfRecordsReal" with the tfRecords for the training data, the validation data and the test data. Further more the resulting model is compiled and saved in the folder 3ClassModel and 15ClassModel, respectively for the 3 class and the 15 class classification problem. This repository also contains the pre-trained VGGish model (ref: https://github.com/tensorflow/models/tree/master/research/audioset).  
-Finally this repository contain a Jupyter Notebook file (AcousticSceneClassifier.ipynb) with our model. 
+Finally this repository contain a Jupyter Notebook file (AcousticSceneClassifier.ipynb) with our model.
+
+# Reproduce results
+To reproduce the results illustrated in the Article the two trained models are saved, and can be restored. The two saved models are respectively the 3 class problem and the 15 class problem.
