@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/tmp/audio_classifier"
+all_model_checkpoint_paths: "C:/tmp/audio_classifier"
